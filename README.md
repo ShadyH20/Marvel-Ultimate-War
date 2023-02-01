@@ -8,6 +8,7 @@ Built fullt using Java.
 
 Enjoy!
 
+Download the game from the releases section.
 
 Youtube Video Link:
 
